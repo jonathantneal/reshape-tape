@@ -1,4 +1,4 @@
-# Reshape Tape [<img src="https://jonathantneal.github.io/reshape-boilerplate/logo.svg" alt="Reshape" width="90" height="90" align="right">][Reshape]
+# Reshape Tape [<img src="https://jonathantneal.github.io/reshape-logo.svg" alt="Reshape" width="90" height="90" align="right">][Reshape]
 
 [![NPM Version][npm-img]][npm-url]
 [![Build Status][cli-img]][cli-url]
