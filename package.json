@@ -1,6 +1,6 @@
 {
   "name": "reshape-tape",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Quickly test Reshape plugins",
   "author": "Jonathan Neal <jonathantneal@hotmail.com>",
   "license": "CC0-1.0",

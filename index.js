@@ -66,7 +66,9 @@ Object.keys(tests).reduce(
 
 					return readFile(sourcePath, 'utf8').then(
 						html => reshape.process(html, {
-							filename: sourcePath,
+							parserOptions: {
+								filename: sourcePath
+							},
 							plugins: [prepped]
 						})
 						.then(result => result.output())
